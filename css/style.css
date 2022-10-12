@@ -1,0 +1,322 @@
+h3{
+    background-color: #9ed69e;
+    color: #fff;
+    text-align: center;
+    text-decoration: underline;
+    margin: 10px;
+    letter-spacing: 0.6em;
+    height: 20px;
+    top: 18%;
+}
+.box-1{
+    border: 1px solid black;
+    background-image: url(../image/mikal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 300px;
+    cursor: pointer;
+}
+ul{
+    float: left;
+    color: red;
+}
+ul li{
+    margin: 10px;
+    float: left;
+    position: relative;
+    width: 150px;
+    font-size: 20px;
+    font-family: roboto condnsed,sans-serif;
+    list-style-type: none;
+}
+ul li a{
+    float: left;
+    text-decoration: none;
+    color:rosybrown ;
+
+}
+h4{
+    margin-top: 0px;
+    color: darkorange;
+    margin: 7px 13px;
+    position: relative;
+    left: -01%;
+    font-family: roboto condnsed,sans-serif;
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: normal;
+}
+.subbox{
+    border: 1px solid transparent;
+    background-color: grey;
+    height: 70px;
+}
+ol{
+    float: left;
+}
+ol li{
+    float: left;
+    width: 150px;
+    position: relative;
+    left: 100%;
+    list-style-type: none;
+    font-family: roboto condnsed,sans-serif;
+    font-size: 18px;   
+}
+ol li a{
+    text-decoration: none;
+}
+ol li a:hover{
+    border-bottom: 4px solid #9ed69e;
+}
+
+h2{
+    color: black;
+    position: relative;
+    left: 5.1%;
+    text-transform: uppercase;
+    font-family: roboto condnsed,sans-serif;
+    margin-top: 4px;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 0.4em;
+}
+font{
+    color: red;
+}
+.cover img{
+    background-color:grey;
+    background-size: cover;
+    display: flex;
+    height: 700px;
+    width: 1008px;
+    
+}
+.text{
+    position: relative;
+    top: 30%;
+    left: 10%;
+}
+h1{
+    position: relative;
+    font-size: 60px;
+    font-family: roboto condnsed,sans-serif;
+    text-transform: capitalize;
+    width: 360px;
+    word-spacing: 1px;
+    font-weight: normal;
+    line-height: normal;
+}
+h5{
+    position: relative;
+    top: -6%;
+    font-size: 40px;
+    font-weight: 20px;
+    text-transform:uppercase;
+    float:none;
+}
+form input[type="submit"]{
+    position: absolute;
+    top: 100%;
+    padding: 20px;
+    text-transform: uppercase;
+    background-color: cadetblue;
+    border: none;
+    color: white;
+    font-family: roboto condnsed,sans-serif;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+form input[type="submit"]:hover{
+    background-color: black;
+}
+.row{
+    display: flex;
+}
+image1{
+    display: flex;
+    flex: 1;
+    position: absolute;
+    left: 25%;
+    margin: 20px 20px;
+    padding: 5px 7px;
+    border: 10px solid darkgray;
+    box-sizing: border-box 1px 3px 9px;
+    height: 50px;
+    width: 50px;
+    height: 50px;
+    width: 100px;
+    border-top-left-radius: 10px;
+}
+
+h6{
+    color: black;
+    position: abdolute;
+    border-bottom-left-radius: 10px;
+    border: 5px solid whitesmoke;
+    margin-bottom: 50px;
+    width: 40px;
+    font-size: 30px;
+    font-family: roboto condnsed,sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+}
+.image1:hover{
+    box-shadow: 1px 2px 3px;
+    color: #6c7c6c;
+}
+image2{
+    display: flex;
+    flex: 1;
+    position: absolute;
+    margin: 20px 20px;
+    padding: 5px 7px;
+    left: 25%;
+    padding: 10px;
+    border: 10px solid darkgray;
+    box-sizing: border-box 1px 3px 9px;
+    height: 50px;
+    width: 50px;
+    height: 50px;
+    width: 100px;
+    border-top-left-radius: 10px;
+}
+
+h{
+    color: black;
+    position: abdolute;
+    border-bottom-left-radius: 10px;
+    border: 5px solid whitesmoke;
+    margin-bottom: 50px;
+    width: 40px;
+    font-size: 30px;
+    font-family: roboto condnsed,sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+}
+
+.image2:hover{
+    box-shadow: 1px 2px 3px;
+    color: #6c7c6c;
+}
+image3{
+    display: flex;
+    flex: 1;
+    margin: 20px 20px;
+    padding: 5px 7px;
+    position: absolute;
+    left: 25%;
+    padding: 10px;
+    border: 10px solid darkgray;
+    box-sizing: border-box 1px 3px 9px;
+    height: 50px;
+    width: 50px;
+    height: 50px;
+    width: 100px;
+    border-top-left-radius: 10px;
+}
+.image3:hover{
+    box-shadow: 1px 2px 3px;
+    color: #6c7c6c;
+}
+
+t{
+    color: black;
+    position: abdolute;
+    border-bottom-left-radius: 10px;
+    border: 5px solid whitesmoke;
+    margin-bottom: 50px;
+    width: 40px;
+    font-size: 30px;
+    font-family: roboto condnsed,sans-serif;
+    background-color: white;
+    font-weight: normal;
+    text-align: center;
+}
+.sub-row{
+    display: flex;
+    position: relative;
+    background-color: black;
+}
+
+.row-1{
+    flex: 1;
+}
+.row-2{
+    flex: 1;
+}
+.row-3{
+    flex: 1;
+}
+.row-4{
+    flex: 1;
+}
+.sub-row2{
+    display: flex;
+    position: relative;
+    background-color: goldenrod;
+}
+.row1{
+    flex: 1;
+}
+.row2{
+    flex: 1;
+}
+.row3{
+    flex: 1;
+}
+.paragraph{
+    background-color: bisque;
+    color: black;
+    display: flex;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 40px;
+}
+.box1{
+   flex: 1;
+   
+}
+
+.box2{
+    flex: 1;
+ }
+ .box3{
+    flex: 1;
+ }
+ .box4{
+    flex: 1;
+ }
+ footer{
+     margin-left: 20px;
+     padding: 10px 7px;
+     font:icon;
+     color: black;
+ }
+ p{
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    display: flex;
+    background-position: 16.7%;
+    background-size: contain;
+    border-radius: 10px;
+ }
+ image{
+    width: 100px;
+    border-radius: 40px;
+    float: left;
+   margin-right: 20px;
+}
+.username{
+    font-weight: bold;
+}
+.About us{
+    background-image: url(../image/mikal.jpg);
+}
